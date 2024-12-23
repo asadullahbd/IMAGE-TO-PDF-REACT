@@ -15,7 +15,7 @@ npm (comes with Node.js)
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/image-to-pdf.git
+git clone https://github.com/asadullahbd/IMAGE-TO-PDF-REACT.git
 
 Navigate to the project directory:
 
